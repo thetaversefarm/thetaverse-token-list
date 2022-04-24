@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Wrapped TFUEL",
+    "address": "0x4Dc08B15ea0e10B96c41Aec22fAB934bA15C983e",
+    "symbol": "WTFUEL",
+    "decimals": 18,
+    "chainId": 365,
+    "logoURI": "https://raw.githubusercontent.com/thetaversefarm/thetaverse-token-list/master/src/tokens/icons/assets/wtfuel.png"
+  },
+  {
+    "name": "Thetaverse Token",
+    "address": "0xE384A9B7581fD2C5B8F439A2241101b72F659487",
+    "symbol": "TVT",
+    "decimals": 18,
+    "chainId": 365,
+    "logoURI": "https://raw.githubusercontent.com/thetaversefarm/thetaverse-token-list/master/src/tokens/icons/assets/tvt.png"
+  }
+]

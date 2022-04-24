@@ -1,0 +1,89 @@
+{
+  "name": "Thetaverse List",
+  "timestamp": "2022-04-24T01:14:28.224Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/thetaversefarm/thetaverse-token-list/master/images/logo.png",
+  "keywords": [
+    "thetaverse",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "Wrapped TFUEL",
+      "address": "0x4Dc08B15ea0e10B96c41Aec22fAB934bA15C983e",
+      "symbol": "WTFUEL",
+      "decimals": 18,
+      "chainId": 365,
+      "logoURI": "https://raw.githubusercontent.com/thetaversefarm/thetaverse-token-list/master/src/tokens/icons/assets/wtfuel.png"
+    },
+    {
+      "name": "Thetaverse Token",
+      "address": "0xE384A9B7581fD2C5B8F439A2241101b72F659487",
+      "symbol": "TVT",
+      "decimals": 18,
+      "chainId": 361,
+      "logoURI": "https://raw.githubusercontent.com/thetaversefarm/thetaverse-token-list/master/src/tokens/icons/assets/tvt.png"
+    },
+    {
+      "name": "USDC Coin",
+      "address": "0x3Ca3fEFA944753b43c751336A5dF531bDD6598B6",
+      "symbol": "USDC",
+      "decimals": 18,
+      "chainId": 361,
+      "logoURI": "https://raw.githubusercontent.com/thetaversefarm/thetaverse-token-list/master/src/tokens/icons/assets/usdc.png"
+    },
+    {
+      "name": "Meter Token",
+      "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
+      "symbol": "MTRG",
+      "decimals": 18,
+      "chainId": 361,
+      "logoURI": "https://raw.githubusercontent.com/thetaversefarm/thetaverse-token-list/master/src/tokens/icons/assets/mtrg.png"
+    },
+    {
+      "name": "Theta Drop",
+      "address": "0x1336739B05C7Ab8a526D40DCC0d04a826b5f8B03",
+      "symbol": "TDROP",
+      "decimals": 18,
+      "chainId": 361,
+      "logoURI": "https://raw.githubusercontent.com/thetaversefarm/thetaverse-token-list/master/src/tokens/icons/assets/tdrop.png"
+    },
+    {
+      "name": "Wrapped BNB",
+      "address": "0xdFf772186aCe9b5513FB46d7B05b36Efa0A4a20d",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "chainId": 361,
+      "logoURI": "https://raw.githubusercontent.com/thetaversefarm/thetaverse-token-list/master/src/tokens/icons/assets/wbnb.png"
+    },
+    {
+      "name": "Wrapped Ether",
+      "address": "0x3674D64AaB971aB974B2035667a4B3d09B5ec2B3",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 361,
+      "logoURI": "https://raw.githubusercontent.com/thetaversefarm/thetaverse-token-list/master/src/tokens/icons/assets/weth.png"
+    },
+    {
+      "name": "Wrapped TFUEL",
+      "address": "0x4Dc08B15ea0e10B96c41Aec22fAB934bA15C983e",
+      "symbol": "WTFUEL",
+      "decimals": 18,
+      "chainId": 361,
+      "logoURI": "https://raw.githubusercontent.com/thetaversefarm/thetaverse-token-list/master/src/tokens/icons/assets/wtfuel.png"
+    },
+    {
+      "name": "Thetaverse Token",
+      "address": "0xE384A9B7581fD2C5B8F439A2241101b72F659487",
+      "symbol": "TVT",
+      "decimals": 18,
+      "chainId": 365,
+      "logoURI": "https://raw.githubusercontent.com/thetaversefarm/thetaverse-token-list/master/src/tokens/icons/assets/tvt.png"
+    }
+  ]
+}
